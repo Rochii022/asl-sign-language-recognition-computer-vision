@@ -2,6 +2,9 @@
 
 A real-time American Sign Language (ASL) alphabet recognition system designed with a strong focus on **computer vision and image processing**, utilizing a Convolutional Neural Network (CNN) as an auxiliary classification model.
 
+## 📹 Video Demostration
+[![ASL Recognition](https://img.youtube.com/vi/Eci2M_saxx8/hqdefault.jpg)](https://www.youtube.com/watch?v=Eci2M_saxx8)
+
 ## 🛠️ Technologies & Libraries
 * **Python**
 * **PyTorch** (Convolutional Neural Networks / CNNs)
